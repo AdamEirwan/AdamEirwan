@@ -5,7 +5,7 @@
 - I study Statistics at UiTM Seremban with a minor in Big Data Analytics.
 - I build dashboards, write SQL queries and use statistical models to answer questions about data.
 - At US Pizza, I analysed order data to track revenue, order volume and outlet performance.
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/adam-eirwan/)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/adameirwan/)
 
 ## Projects
 
@@ -41,6 +41,21 @@ I used SAS Enterprise Miner to apply data mining and machine learning techniques
 
 - **Analytics and reporting** · SQL, Microsoft Excel, Power BI, Tableau
 - **Statistical modelling and data mining** · IBM SPSS Statistics, SAS Enterprise Miner, Python
+
+## Certifications
+
+| Certificate | Issuer | Issued | Credential |
+| --- | --- | --- | --- |
+| AI Fundamentals | Google | Nov 2026 | [View credential](https://www.coursera.org/account/accomplishments/records/FWF74CNHYV1C) |
+| Preparing Data for Analysis with Microsoft Excel | Microsoft | Nov 2026 | [View credential](https://www.coursera.org/account/accomplishments/records/SHVC7DXV71UB) |
+| Foundations: Data, Data, Everywhere | Google | Nov 2026 | [View credential](https://www.coursera.org/account/accomplishments/records/LG5O3OVB3A3Y) |
+| AI for Data Analysis | Google | Nov 2026 | [View credential](https://www.coursera.org/account/accomplishments/records/QARHBBE5451R) |
+| Ask Questions to Make Data-Driven Decisions | Google | Nov 2026 | [View credential](https://www.coursera.org/account/accomplishments/records/4FBYMLF5FJ52) |
+| Prepare Data for Exploration | Google | Nov 2026 | [View credential](https://www.coursera.org/account/accomplishments/records/MWSYW883RTZL) |
+| Process Data from Dirty to Clean | Google | Nov 2026 | [View credential](https://www.coursera.org/account/accomplishments/records/7A48YP5E25XW) |
+| Share Data Through the Art of Visualization | Google | Nov 2026 | [View credential](https://www.coursera.org/account/accomplishments/records/KSKKK1R8NUOP) |
+| Introduction to Data Analysis Using Python | Google | Nov 2026 | [View credential](https://www.coursera.org/account/accomplishments/records/RMBACMDQRHBQ) |
+| Python | DataCamp | Jun 2026 | [View credential](https://www.datacamp.com/completed/statement-of-accomplishment/course/2dff338b0ec4bff26645470cfda699308fa80e6f) |
 
 ## Education
 
