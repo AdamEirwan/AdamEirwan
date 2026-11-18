@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Data analytics portfolio of Adam Eirwan, a UiTM statistics undergraduate.">
+<title>Adam Eirwan | Data Analytics Portfolio</title>
+<style>
+:root{color-scheme:dark;--bg:#101a18;--panel:#192824;--line:#344641;--ink:#f7f5ec;--muted:#bacbc3;--accent:#c5ed91}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,sans-serif}a{color:var(--accent);text-underline-offset:4px}a:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:5px}header,main,footer{width:min(1120px,calc(100% - 40px));margin:auto}header,footer,nav,.links{display:flex;align-items:center;gap:1.25rem;flex-wrap:wrap}header,footer{justify-content:space-between;padding:1.2rem 0}header{border-bottom:1px solid var(--line)}header a{text-decoration:none}nav a{color:var(--muted)}.hero{padding:clamp(64px,10vw,128px) 0 64px;max-width:850px}.label{font-size:.76rem;font-weight:750;letter-spacing:.15em;text-transform:uppercase;color:var(--accent)}h1,h2,h3,p{margin:0 0 .85rem}h1,h2{font-family:Georgia,serif;font-weight:400;line-height:1.02}h1{font-size:clamp(3.4rem,10vw,7.8rem);letter-spacing:-.065em}h2{font-size:clamp(2.3rem,5vw,4rem);letter-spacing:-.04em}h3{line-height:1.25}p,li{color:var(--muted)}.intro{font-size:clamp(1.1rem,2vw,1.35rem);max-width:58ch}.links{margin-top:1.5rem}.button{background:var(--accent);color:var(--bg);padding:.65rem 1rem;border-radius:.45rem;text-decoration:none;font-weight:750}section{margin-bottom:64px}.featured,.cards article,.about{border:1px solid var(--line);border-radius:18px;background:var(--panel);padding:clamp(18px,4vw,40px)}.featured{display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:2rem}.featured h3{font:clamp(1.8rem,4vw,3rem)/1.08 Georgia,serif}.featured strong,.cards strong{color:var(--ink)}.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:14px}.cards article{padding:22px}.cards h3{font-size:1.3rem}details{border-top:1px solid var(--line);padding-top:12px;margin-top:18px}summary{cursor:pointer;color:var(--accent);font-weight:650}details p{margin-top:.7rem}figure{margin:0;background:#111d19;border-radius:14px;padding:1rem}figcaption{font-size:.84rem;color:var(--muted);margin-bottom:.85rem}.plot{display:grid;gap:.55rem}.row{display:grid;grid-template-columns:2rem 1fr 2.2rem;align-items:center;gap:.5rem;font-size:.85rem}.bar{height:.65rem;width:calc(var(--value)*1%);background:#86ad9a;border-radius:4px}.year24{background:var(--accent)}.year{font-size:.75rem;color:var(--muted);margin-top:.35rem}.about{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem}.about ul{padding-left:1.15rem;margin:0}footer{border-top:1px solid var(--line);color:var(--muted)}@media(max-width:760px){.featured,.cards,.about{grid-template-columns:1fr}.hero{padding:54px 0 44px}}@media(max-width:370px){header,main,footer{width:calc(100% - 28px)}nav{gap:.7rem}}
+</style>
+</head>
+<body>
+<header><a href="#top"><strong>Adam Eirwan</strong></a><nav aria-label="Main navigation"><a href="#projects">Projects</a><a href="#about">About</a><a href="https://www.linkedin.com/in/adam-eirwan/">LinkedIn</a></nav></header>
+<main id="top">
+<section class="hero" aria-labelledby="name">
+<p class="label">Data Analytics Portfolio</p>
+<h1 id="name">Adam Eirwan</h1>
+<p class="intro">I'm a statistics undergraduate at UiTM Seremban with a minor in Big Data Analytics. I use statistical models and dashboards to answer questions about data.</p>
+<div class="links"><a class="button" href="#projects">Explore projects</a><a href="https://github.com/AdamEirwan">GitHub profile</a></div>
+</section>
+<section id="projects" aria-labelledby="projects-title">
+<h2 id="projects-title">Selected projects</h2>
+<article class="featured"><div>
+<p class="label">Final-year project · IBM SPSS Statistics</p>
+<h3>Air Pollution in Klang</h3>
+<p>Which weather conditions were associated with days when the Air Pollution Index (API) exceeded 100?</p>
+<p>I combined daily API readings with weather data for 2023–2024 and fitted a binary logistic regression model using <strong>720 daily observations</strong>.</p>
+<details><summary>Methods and findings</summary><p>I examined temperature, relative humidity, wind speed, wind direction and rainfall. Wind direction had the largest Wald statistic among the predictors in the fitted model. Temperature, wind speed and rainfall were also statistically significant. Relative humidity was not statistically significant.</p><p>The quarter with the highest average API was Q3 2024. The chart shows rounded quarterly averages.</p></details>
+</div>
+<figure><figcaption><strong>Average Air Pollution Index by quarter</strong><br>Klang, Selangor · 2023–2024</figcaption><div class="plot">
+<div class="year">2023</div>
+<div class="row"><span>Q1</span><span class="bar" style="--value:41"></span><span>41</span></div>
+<div class="row"><span>Q2</span><span class="bar" style="--value:76"></span><span>76</span></div>
+<div class="row"><span>Q3</span><span class="bar" style="--value:90"></span><span>90</span></div>
+<div class="row"><span>Q4</span><span class="bar" style="--value:36"></span><span>36</span></div>
+<div class="year">2024</div>
+<div class="row"><span>Q1</span><span class="bar year24" style="--value:64"></span><span>64</span></div>
+<div class="row"><span>Q2</span><span class="bar year24" style="--value:80"></span><span>80</span></div>
+<div class="row"><span>Q3</span><span class="bar year24" style="--value:100"></span><span>100</span></div>
+<div class="row"><span>Q4</span><span class="bar year24" style="--value:46"></span><span>46</span></div>
+</div></figure></article>
+<div class="cards">
+<article><p class="label">Power BI</p><h3>Student Mental Health and Burnout</h3><p>Cleaned student survey data and built an interactive dashboard to explore mental health and burnout patterns.</p><details><summary>Project approach</summary><p>I used charts to present the analysis and slicers to let viewers filter the data.</p></details></article>
+<article><p class="label">Microsoft Excel</p><h3>Footwear Data Analysis</h3><p>Turned a footwear dataset into a dashboard using PivotTables, PivotCharts and summary cards.</p><details><summary>Project approach</summary><p>I cleaned the source data before summarising it. Slicers allow viewers to change which records appear in the dashboard.</p></details></article>
+<article><p class="label">SAS Enterprise Miner</p><h3>Loan Approval Prediction</h3><p>Applied data mining and machine learning to predict loan approval outcomes.</p><details><summary>Project approach</summary><p>I treated approval as a classification problem and used SAS Enterprise Miner to build the predictive model.</p></details></article>
+</div></section>
+<section id="about" class="about" aria-labelledby="about-title"><div><h2 id="about-title">About me</h2><p>BSc (Hons.) Statistics at UiTM Seremban. Dean’s List, Semester 5.</p><p>I served as Entrepreneurship EXCO for INSTATS3 and led the Excel Skills Bootcamp.</p></div><div><h3>Tools and skills</h3><ul><li>Power BI, Excel and Tableau for reporting</li><li>SPSS, SAS Enterprise Miner and Python for analysis</li><li>Data cleaning, visualisation and statistical modelling</li></ul></div></section>
+</main><footer><span>Muhammad Adam Eirwan</span><a href="https://www.linkedin.com/in/adam-eirwan/">Connect on LinkedIn</a></footer>
+</body></html>
