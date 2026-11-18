@@ -44,9 +44,24 @@ I used SAS Enterprise Miner to apply data mining and machine learning techniques
 
 ## Education
 
-- **UiTM Seremban** · BSc (Hons.) Statistics with a minor in Big Data Analytics. Dean’s List, Semester 5.
+| Qualification | Institution | Period | Results |
+| --- | --- | --- | --- |
+| Bachelor of Science (Hons.) Statistics with a minor in Big Data Analytics | Universiti Teknologi MARA (UiTM), Seremban Campus, Negeri Sembilan | Oct 2023 – Present | CGPA 3.12 · Dean’s List, Semester 5 |
+| KPM Matriculation Programme (Accounting) | Kolej MARA Kuala Nerang, Kedah | Jul 2022 – Feb 2023 | CGPA 3.67 |
+| Malaysian Certificate of Education (SPM) | Sekolah Menengah Kebangsaan Saujana Indah, Pulau Pinang | Jan 2018 – Jun 2022 | 4A, 3B and 1C |
 
 ## Leadership
 
-- **INSTATS3** · Entrepreneurship EXCO.
-- **Excel Skills Bootcamp: Master the Essentials** · Programme leader.
+### UiTM Seremban (2023 – Present)
+
+- **Entrepreneurship EXCO** · Insights Statistics Seremban 3 (INSTATS3)
+- **Programme Leader** · Excel Skills Bootcamp: Master the Essentials
+- **Registration & External Relations** · Smart Start: Power BI for Beginners
+- **Food Bureau Member** · Data Meet Industry
+- **ICT & Technical Bureau Member** · InstatS3 Appreciation Ceremony
+- **Deputy Sports Director (Futsal)** · KPPIM Sport Fiesta
+
+### Kolej MARA Kuala Nerang (2022–2023)
+
+- **Welfare EXCO** · Pembimbing Rakan Dinamik (PRD)
+- **Participant** · PRD Leadership Course
