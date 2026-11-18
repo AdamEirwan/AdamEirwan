@@ -42,8 +42,11 @@ I used SAS Enterprise Miner to apply data mining and machine learning techniques
 - **Analytics and reporting** · SQL, Microsoft Excel, Power BI, Tableau
 - **Statistical modelling and data mining** · IBM SPSS Statistics, SAS Enterprise Miner, Python
 
-## Education and leadership
+## Education
 
 - **UiTM Seremban** · BSc (Hons.) Statistics with a minor in Big Data Analytics. Dean’s List, Semester 5.
+
+## Leadership
+
 - **INSTATS3** · Entrepreneurship EXCO.
 - **Excel Skills Bootcamp: Master the Essentials** · Programme leader.
