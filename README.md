@@ -29,6 +29,15 @@ For my final-year project, I combined daily air pollution and weather records fo
 
 I cleaned a student mental health and burnout dataset and built a Power BI dashboard. Charts and slicers let readers filter the data and compare patterns across groups.
 
+#### Student Burnout Analysis
+
+![Student Burnout Analysis dashboard](https://github.com/user-attachments/assets/8dfdde5e-07cf-4e4d-8780-e78d936fd882)
+
+#### Student Demographic Overview
+
+![Student Demographic Overview dashboard](https://github.com/user-attachments/assets/381f3ef7-10ba-4523-985c-f5727aefc145)
+
+
 ### Footwear Data Analysis Dashboard
 
 I cleaned the dataset and organised the results in an Excel dashboard with PivotTables, PivotCharts, slicers and summary cards.
